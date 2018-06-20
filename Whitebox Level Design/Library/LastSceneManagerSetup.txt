@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Tavern_01.unity
+- path: Assets/_Scenes/Tavern_in_the_woods.unity
   isLoaded: 1
   isActive: 1

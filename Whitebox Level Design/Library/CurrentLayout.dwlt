@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -87,10 +87,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 138
+  controlID: 143
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,8 +158,8 @@ MonoBehaviour:
     y: 0
     width: 449
     height: 947
-  m_MinSize: {x: 234, y: 471}
-  m_MaxSize: {x: 10004, y: 14021}
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
   controlID: 50
 --- !u!114 &8
@@ -206,8 +206,8 @@ MonoBehaviour:
     y: 0
     width: 449
     height: 416
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -364,20 +364,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/fantasySpider
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/fantasySpider
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Raul\Documents\Whitebox Level Design
+  m_LastProjectPath: C:\Users\Raul\Documents\Cake_Hunt_Test\Whitebox Level Design
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 38ca0000
-    m_LastClickedID: 51768
-    m_ExpandedIDs: 000000008a2a0000a22a0000262f0000f82f0000c63000007e340000e0360000703a0000623b0000de3b00006e3c00007e5e0000805e0000825e0000845e0000865e0000885e00008a5e00008c5e00008e5e0000905e0000925e000082730000207e00006085000038ca000000ca9a3bffffff7f
+    m_SelectedIDs: 889b0000
+    m_LastClickedID: 39816
+    m_ExpandedIDs: 00000000889b00009e9b0000049c0000129c0000329d00009a9d0000ee9d0000e09e00003a9f0000e29f000004a000007aa000008ea0000090a0000014a1000070a10000a0a10000c6a1000020bd000022bd000024bd000026bd000028bd00002abd00002cbd00002ebd000030bd000032bd000034bd000036bd000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a2a0000262f0000f82f0000c6300000f6310000fa380000623b0000de3b00000a3c00006e3c00007e5e0000805e0000825e0000845e0000865e0000885e00008a5e00008c5e00008e5e0000905e0000925e0000
+    m_ExpandedIDs: 00000000889b00009e9b0000049c0000329d00009a9d0000ee9d0000e09e00003a9f0000e29f000004a0000014a1000070a10000a0a10000c6a1000020bd000022bd000024bd000026bd000028bd00002abd00002cbd00002ebd000030bd000032bd000034bd000036bd0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -432,7 +432,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000000000056fc00006665000002360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -457,7 +457,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 173}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 182
 --- !u!114 &15
@@ -561,14 +561,14 @@ MonoBehaviour:
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 11729.571057188381
+  lastFramingTime: 420.29000923648476
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.023689, y: -15.5155945, z: -0.9330907}
+    m_Target: {x: -15.887314, y: 17.023367, z: 24.24832}
     speed: 2
-    m_Value: {x: -10.023689, y: -15.5155945, z: -0.9330907}
+    m_Value: {x: -15.887314, y: 17.023367, z: 24.24832}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -596,13 +596,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2095206, y: -0.15295558, z: 0.0340322, w: 0.9651724}
+    m_Target: {x: 0.19290055, y: -0.04823514, z: 0.010333281, w: 0.9800084}
     speed: 2
-    m_Value: {x: 0.20951952, y: -0.15295479, z: 0.034032024, w: 0.96516746}
+    m_Value: {x: 0.19289471, y: -0.04823368, z: 0.010332968, w: 0.97997874}
   m_Size:
-    m_Target: 127.62935
+    m_Target: 67.07445
     speed: 2
-    m_Value: 127.62935
+    m_Value: 67.07445
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -640,29 +640,29 @@ MonoBehaviour:
     height: 395
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 528}
-    m_SelectedIDs: a6dc0000
-    m_LastClickedID: 56486
-    m_ExpandedIDs: dc56dbffa884dbffe4cbdbffd0cfdbffc290dcff6220deff4868e3ff8094e3ff9801e4ff6246e6ff0c47e6ff1047e6ff866ae7ff760ceaff5898ebffa20fecff0433ecff8e43efff6405f0ffbadff0ffa437f8ff42c2fbffe0e4fbffe436fcff480effffc4abffff6ebeffff7cbeffffa0dfffffd8dfffff0ee0ffff44e0ffff6ae0ffffbae0ffff16e1ffff20e1ffff44e1ffff7ce1ffff9ae1fffff6e1fffff8e1fffffae1ffff24edffff80edffffd0edffff5aeeffff76eeffff0cefffff0eefffffb6fbffffb8fbffffbafbffffbcfbffffbefbffffc0fbffffc2fbfffff0fbffff000000000c3e00002a3e0000e83e00000c420000404200004642000024cf000082d20000a8d3000012d5000032d60000ccd60000e8dd0000f2f3000020fd0000a8050100d01b0100821f0100162b0100083a01009a3b0100d23b01004e3c0100
+    scrollPos: {x: 0, y: 32}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e403fbff885dfdff8c5dfdff905dfdff925dfdff888efdff8a8efdff848ffdff00000000daa300007eaf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: _Torch_Lit
+      m_OriginalName: _Torch_Lit
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -160120
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - Tavern_01
+  - Tavern_in_the_woods
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
